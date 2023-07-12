@@ -23,13 +23,7 @@ func main() {
 		fmt.Print(grade, " ")
 	}
 	fmt.Println("")
-	/**
-	  [2]string{"", ""}
-	  [3]float64{1.1, 2.2, 0}
-	  [0]bool{}
-	  city1 city2
-	  1.1 2.2 0
-	  **/
+
 	fmt.Println("Ex2#######################")
 
 	nums := [...]int{30, -1, -6, 90, -6}
@@ -41,4 +35,14 @@ func main() {
 		}
 	}
 	fmt.Println(count)
+	/**
+	Ex1#######################
+	[2]string{"", ""}
+	[3]float64{1.1, 2.2, 0}
+	[0]bool{}
+	city1 city2
+	1.1 2.2 0
+	Ex2#######################
+	2
+	**/
 }

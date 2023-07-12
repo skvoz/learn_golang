@@ -5,6 +5,13 @@ import "fmt"
 func main() {
 	fmt.Println("ex1#################")
 	ex1()
+	/**
+	ex1#################
+	7
+	14
+	21
+	28
+	**/
 }
 
 func ex1() {

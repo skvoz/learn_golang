@@ -55,4 +55,28 @@ b) C:\Users\a.txt`)
 	for i, v := range r1 {
 		fmt.Printf("index %d, value  %c\n", i, v)
 	}
+	/**
+		Ex1#######################
+	name is Constantine,
+	country is TrampampamCity
+	a) He says: "Hello"
+	b) C:\Users\a.txt
+	Ex2#######################
+	type is int32, value is 259
+	"mamă"
+	Ex3#######################
+	200 155 97 114 196 131 32 109 101 97 110 115 32 99 111 117 110 116 114 121 32 105 110 32 82 111 109 97 110 105 97 110
+	țară means country in Romanian
+	Ex4#######################
+	228 189 160 229 165 189 32 71 111 33
+	[]byte{0xe4, 0xbd, 0xa0, 0xe5, 0xa5, 0xbd, 0x20, 0x47, 0x6f, 0x21}
+	Ex4#######################
+	[]int32{20320, 22909, 32, 71, 111, 33}
+	index 0, value  你
+	index 1, value  好
+	index 2, value
+	index 3, value  G
+	index 4, value  o
+	index 5, value  !
+	**/
 }

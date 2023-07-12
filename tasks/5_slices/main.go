@@ -47,4 +47,19 @@ func main() {
 	newYears := []int{}
 	newYears = append(years[:3], years[len(years)-3:]...)
 	fmt.Printf("%#v\n", newYears)
+	/**
+	#Ex1#############################
+	index 0, val "foo"
+	index 1, val "bar"
+	index 2, val "baz"
+	Ex2#############################
+	[]float64{1.1, 2.2, 3.3, 10.1, 4.1, 5.5, 6.6}
+	Ex3#############################
+	9 10 1100 6
+	Ex4#############################
+	src array []string{"foo", "John", "Paul", "Diana"}
+	dst array []string{"Marry", "John", "Paul", "Diana"}
+	Ex5#############################
+	[]int{2000, 2001, 2002, 2008, 2009, 2010}
+	**/
 }

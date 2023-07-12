@@ -23,5 +23,9 @@ func main() {
 	//short
 	z := -20
 	fmt.Printf("%T %#v\n", z, z)
+	/**
+	int, float64, bool, string,
+	int -20
+	**/
 
 }
