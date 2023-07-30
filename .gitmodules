@@ -1,0 +1,3 @@
+[submodule "petprojects/cli/whididt"]
+	path = petprojects/cli/whididt
+	url = https://github.com/skvoz/whididt
